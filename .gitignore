@@ -1,0 +1,58 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+.env/
+.venv/
+
+# =========================
+# PyCharm / IntelliJ
+# =========================
+.idea/
+*.iml
+
+# =========================
+# Archivos del sistema
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Archivos temporales
+# =========================
+*.log
+*.tmp
+
+# =========================
+# Configuración local
+# =========================
+.env
+
+# =========================
+# Build / distribución
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Coverage / testing
+# =========================
+.coverage
+htmlcov/
+.pytest_cache/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# VS Code (opcional)
+# =========================
+.vscode/
