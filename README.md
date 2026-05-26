@@ -55,7 +55,6 @@ CampusUdeM/
 ├── grafo/
 │   ├── __init__.py
 │   ├── grafo_campus.py
-│   ├── algoritmos.py
 │   └── datos_campus.py
 │
 ├── interfaz/
