@@ -1,5 +1,4 @@
 from interfaz.utilidades import *
-from grafo.algoritmos import *
 from grafo.datos_campus import crearCampus
 
 campus = crearCampus()
