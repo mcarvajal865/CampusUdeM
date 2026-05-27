@@ -33,7 +33,7 @@ def crearCampus():
         'Biblioteca',
         100, 2, 2,
         True,
-        'bloqueado'
+        'disponible'
     )
 
     campus.agregarConexion(
